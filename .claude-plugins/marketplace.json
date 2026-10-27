@@ -1,0 +1,11 @@
+{
+  "name": "nahecz-marketplace",
+  "owner": { "name": "naheCZ" },
+  "plugins": [
+    {
+      "name": "nahecz-skills",
+      "source": "./plugins/nahecz-skills",
+      "description": "My skills"
+    }
+  ]
+}
